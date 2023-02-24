@@ -55,6 +55,11 @@ justify-content: center;
 font-weight: bold;
 font-size: 7vh;
 color:var(--foreground-color);
+border-style: dashed;
+border-top: 25px;
+border-left: 25px;
+border-right: 25px;
+font-family: Helvetica, sans-serif;
 
 }
 
